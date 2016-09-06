@@ -1,0 +1,13 @@
+name                        = kidneys_flip_theme
+description                 = Theme for FLIP
+base theme                  = nkf_base
+core                        = 7.x
+engine                      = phptemplate
+
+
+; Stylesheets =================================================================
+;stylesheets[all][]          = css/site.css
+
+
+; Scripts =====================================================================
+;scripts[]                   = js/site.js
