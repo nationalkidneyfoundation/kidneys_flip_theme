@@ -1,3 +1,4 @@
+
 <section class="bg--black padding-top--xxxl padding-x--lg">
   <div class="container text-align--center">
   	<img src="http://kidneyfoundation.cachefly.net/flip/FlipType3A.png" class="display--inline md--padding--xl" style="max-width: 600px" />
@@ -12,9 +13,15 @@
 				<div class="font-size--lg">“86 the junk, I’ve only got one body to flunk<br> can’t leave my future behind<br> flip it – the choices are mine.”</div>
 			</div>
 		  <div class="bg--gray-3 grid-cell display--table width--100 padding--sm border-radius--md">
-		    <div class="display--table-cell width--70 border-color--aqua border-style--solid border-width--xs"><input placeholder="Enter your email" class="width--100" type="text"></div>
-      <a href="#" class="display--table-cell width--30 border-radius--none button--aqua padding-y--sm caps" type="submit" value="t"><span class="md--show">Get on the list</span><span class="md--hide">Notify Me</span></a></div>
-	
+        <?php print render($flip_form); ?>
+		    <div class="display--table-cell width--70 border-color--aqua border-style--solid border-width--xs">
+          <input placeholder="Enter your email" class="width--100" type="text">
+        </div>
+        <a href="#" class="display--table-cell width--30 border-radius--none button--aqua padding-y--sm caps" type="submit" value="t">
+          <span class="md--show">Get on the list</span><span class="md--hide">Notify Me</span>
+        </a>
+      </div>
+
 	  </div>
 
   	<div class="grid padding-top--xxxl">
