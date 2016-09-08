@@ -1,31 +1,23 @@
-
+<?php //if ($show_messages && $messages): print $messages; endif; ?>
 <section class="bg--black padding-top--xxxl padding-x--lg">
   <div class="container text-align--center">
-  	<img src="http://kidneyfoundation.cachefly.net/flip/FlipType3A.png" class="display--inline md--padding--xl" style="max-width: 600px" />
+  	<img src="http://kidneyfoundation.cachefly.net/flip/FlipType3A.png" class="display--inline md--padding--lg padding--md" />
   </div>
 </section>
 
-<section class="bg--black padding-top--lg padding-bottom--xxxl padding-x--lg color--gray-1">
+<section class="bg--black padding-top--lg padding-bottom--xxxl padding-x--lg">
 	<div class="container text-align--center">
 		<div class="grid md--width--85 lg--width--75 width--100 center">
-			<div class="grid-cell width--100 text-align--center font-weight--80 padding-bottom--xxxl">
+			<div class="grid-cell width--100 text-align--center font-weight--80 padding-bottom--xxxl  color--gray-1">
 				<div class="font-weight--800 font-size--xxl">Coming Soon!</div>
 				<div class="font-size--lg">“86 the junk, I’ve only got one body to flunk<br> can’t leave my future behind<br> flip it – the choices are mine.”</div>
 			</div>
-		  <div class="bg--gray-3 grid-cell display--table width--100 padding--sm border-radius--md">
-        <?php print render($flip_form); ?>
-		    <div class="display--table-cell width--70 border-color--aqua border-style--solid border-width--xs">
-          <input placeholder="Enter your email" class="width--100" type="text">
-        </div>
-        <a href="#" class="display--table-cell width--30 border-radius--none button--aqua padding-y--sm caps" type="submit" value="t">
-          <span class="md--show">Get on the list</span><span class="md--hide">Notify Me</span>
-        </a>
-      </div>
-
+      <?php //print $flip_form; ?>
+      <iframe src="http://www3.kidney.org/l/219342/2016-09-08/98w" width="100%" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
 	  </div>
 
   	<div class="grid padding-top--xxxl">
-	    <div class="font-size--lg grid-cell width--100 text-align--center font-weight--800 padding-bottom--sm">
+	    <div class="font-size--lg grid-cell width--100 text-align--center font-weight--800 padding-bottom--sm  color--gray-1">
 	      <div>Know what’s safe to eat based on your own custom beat.</div>
 	    </div>
 	    <div class="padding--md grid-cell text-align--center sm--width--33 width--100">
@@ -56,9 +48,9 @@
 		</div>-->
   	<img class="display--inline" src="http://kidney.org/profiles/kidneys_distro/themes/custom/nkf_base/img/NKF-logoR_Hori_B.png"/>
    	<div class="padding-top--xxl">
-    	<a href="#" class="margin-right--xs button--twitter"><i class="icon icon-twitter"></i> Twitter</a>
-    	<a href="#" class="margin-right--xs button--facebook"><i class="icon icon-facebook"></i> Facebook</a>
-      <a href="#" class="button--black"><i class="icon icon-instagram"></i> Instagram</a>
+    	<a href="https://twitter.com/nkf" class="margin-right--xs button--twitter"><i class="icon icon-twitter"></i> Twitter</a>
+    	<a href="https://www.facebook.com/nationalkidneyfoundation" class="margin-right--xs button--facebook"><i class="icon icon-facebook"></i> Facebook</a>
+      <a href="https://www.instagram.com/nationalkidneyfoundation" class="button--black"><i class="icon icon-instagram"></i> Instagram</a>
    	</div>
   </div>
 </section>

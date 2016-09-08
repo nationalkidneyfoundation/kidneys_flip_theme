@@ -22,6 +22,7 @@
  */
 ?>
 <?php
+
   // Print out the progress bar at the top of the page
   print drupal_render($form['progressbar']);
 
@@ -37,12 +38,15 @@
   //print drupal_render($form['submitted']);
   ?>
 
-
-  <div class="display--table-cell width--70 border-color--aqua border-style--solid border-width--xs">
-    <?php print drupal_render($form['submitted']['email']); ?>
-  </div>
-  <div class="display--table-cell width--30 border-radius--none button--aqua padding-y--sm caps" >
-    <?php print drupal_render($form['actions']['submit']); ?>
+  <div class="bg--gray-3 grid-cell width--100 padding--sm border-radius--md">
+    <div class="grid">
+      <div class="grid-cell sm--padding-right--xs  sm--width--70 width--100">
+        <?php print drupal_render($form['submitted']['email']); ?>
+      </div>
+      <div class="grid-cell sm--width--30 width--100 sm--padding-top--none padding-top--xs" >
+        <?php print drupal_render($form['actions']['submit']); ?>
+      </div>
+    </div>
   </div>
 <?php
 
