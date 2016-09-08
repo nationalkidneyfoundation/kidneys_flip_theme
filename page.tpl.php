@@ -50,7 +50,7 @@
    	<div class="padding-top--xxl">
     	<a href="https://twitter.com/nkf" class="margin-right--xs button--twitter"><i class="icon icon-twitter"></i> Twitter</a>
     	<a href="https://www.facebook.com/nationalkidneyfoundation" class="margin-right--xs button--facebook"><i class="icon icon-facebook"></i> Facebook</a>
-      <a href="https://www.instagram.com/nationalkidneyfoundation" class="button--black"><i class="icon icon-instagram"></i> Instagram</a>
+      <a href="https://www.instagram.com/nationalkidneyfoundation" class="button--instagram"><i class="icon icon-instagram"></i> Instagram</a>
    	</div>
   </div>
 </section>
