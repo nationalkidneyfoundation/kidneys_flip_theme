@@ -46,11 +46,17 @@
 		<!--<div class="font-size--lg width--100 text-align--center font-weight--800 padding-bottom--xl">
 			<div>In collaboration with the National Kidney Foundation.</div>
 		</div>-->
-  	<img class="display--inline" src="https://kidney.org/profiles/kidneys_distro/themes/custom/nkf_base/img/NKF-logoR_Hori_B.png"/>
-   	<div class="padding-top--xxl">
-    	<a href="https://twitter.com/nkf" class="margin-right--xs button--twitter"><i class="icon icon-twitter"></i> Twitter</a>
-    	<a href="https://www.facebook.com/nationalkidneyfoundation" class="margin-right--xs button--facebook"><i class="icon icon-facebook"></i> Facebook</a>
-      <a href="https://www.instagram.com/nationalkidneyfoundation" class="button--instagram"><i class="icon icon-instagram"></i> Instagram</a>
+  	<img class="display--inline" src="https://kidney.org/profiles/kidneys_distro/themes/custom/nkf_base/img/NKF-logoR_Hori_OB.png"/>
+   	<div class="padding-top--xxl grid">
+      <div class="grid-cell width--100 md--width--auto">
+    	   <a href="https://twitter.com/nkf" class="padding--xs width--100 button--twitter"><i class="icon icon-twitter"></i> Twitter</a>
+      </div>
+      <div class="grid-cell width--100 md--width--auto">
+        <a href="https://www.facebook.com/nationalkidneyfoundation" class="padding--xs width--100 button--facebook"><i class="icon icon-facebook"></i> Facebook</a>
+      </div>
+      <div class="grid-cell width--100 md--width--auto">
+        <a href="https://www.instagram.com/nationalkidneyfoundation" class="padding--xs width--100 button--instagram"><i class="icon icon-instagram"></i> Instagram</a>
+      </div>
    	</div>
   </div>
 </section>
