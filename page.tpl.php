@@ -23,19 +23,19 @@
 	    <div class="padding--md grid-cell text-align--center sm--width--33 width--100">
 	      <div class=" padding-top--xs bg--black color--gray-1">
 	        <img class="width--100" src="https://kidneyfoundation.cachefly.net/flip/phife&rasta1.jpg">
-	        <p class="font-size--lg padding-x--md text-transform--uppercase">Phife Dawg & DJ Rasta Root<br /> A Tribe Called Quest</p>
+	        <p class="padding-x--md text-transform--uppercase">Phife Dawg & DJ Rasta Root<br /> A Tribe Called Quest</p>
 	      </div>
 	    </div>
 	    <div class="padding--md grid-cell text-align--center sm--width--33 width--100">
 	    	<div class=" padding-top--xs bg--black color--gray-1">
 	      	<img class="width--100" src="https://kidneyfoundation.cachefly.net/flip/Detour_Blackalicious.jpeg">
-					<p class="font-size--lg padding-x--md text-transform--uppercase">Gift of Gab<br /> Blackalicious</p>
+					<p class="padding-x--md text-transform--uppercase">Gift of Gab<br /> Blackalicious</p>
 	      </div>
 	    </div>
 	    <div class="padding--md grid-cell text-align--center sm--width--33 width--100">
 	    	<div class=" padding-top--xs bg--black color--gray-1">
 	      	<img class="width--100" src="https://kidneyfoundation.cachefly.net/flip/black_rob.jpeg"/>
-					<p class=" font-size--lg padding-x--md text-transform--uppercase">Black Rob</p>
+					<p class="padding-x--md text-transform--uppercase">Black Rob</p>
 	      </div>
 	    </div>
 		</div>
