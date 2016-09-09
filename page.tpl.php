@@ -20,19 +20,19 @@
 	    <div class="font-size--lg grid-cell width--100 text-align--center font-weight--800 padding-bottom--sm  color--gray-1">
 	      <div>Know what’s safe to eat based on your own custom beat.</div>
 	    </div>
-	    <div class="padding--md grid-cell text-align--center sm--width--33 width--100">
+	    <div class="md--padding--md padding-y--md grid-cell text-align--center sm--width--33 width--100">
 	      <div class=" padding-top--xs bg--black color--gray-1">
 	        <img class="width--100" src="https://kidneyfoundation.cachefly.net/flip/phife&rasta1.jpg">
 	        <p class="padding-x--md text-transform--uppercase">Phife Dawg & DJ Rasta Root<br /> A Tribe Called Quest</p>
 	      </div>
 	    </div>
-	    <div class="padding--md grid-cell text-align--center sm--width--33 width--100">
+	    <div class="md--padding--md padding-y--md grid-cell text-align--center sm--width--33 width--100">
 	    	<div class=" padding-top--xs bg--black color--gray-1">
 	      	<img class="width--100" src="https://kidneyfoundation.cachefly.net/flip/Detour_Blackalicious.jpeg">
 					<p class="padding-x--md text-transform--uppercase">Gift of Gab<br /> Blackalicious</p>
 	      </div>
 	    </div>
-	    <div class="padding--md grid-cell text-align--center sm--width--33 width--100">
+	    <div class="md--padding--md padding-y--md grid-cell text-align--center sm--width--33 width--100">
 	    	<div class=" padding-top--xs bg--black color--gray-1">
 	      	<img class="width--100" src="https://kidneyfoundation.cachefly.net/flip/black_rob.jpeg"/>
 					<p class="padding-x--md text-transform--uppercase">Black Rob</p>
